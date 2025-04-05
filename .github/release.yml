@@ -5,4 +5,4 @@ changelog:
         - enhancement
     - title: Bug Fix
       labels:
-        - bug
+        - bugs
